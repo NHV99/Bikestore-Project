@@ -115,3 +115,22 @@ What is the best category for revenues wit %?
 
 ![revenue category](https://github.com/NHV99/Bikestore-Project/assets/145878448/ae02afef-b8ce-4f21-96de-72658472a61f)
 
+
+# Recommendations
+
+1- keep investing in new york ( marketing and expanding ) why : because new york is the best revenue and it`s a busy state which need bikes to move faster
+
+2- invest more in california ( marketing ) why : Because the state of California cares about the environment and we can use this in marketing 
+
+3- make special offers for top customers to keep them 
+
+
+
+# sql Code
+
+https://github.com/NHV99/Bikestore-Project/blob/main/bikestore%20SQL%20Query.sql
+
+
+# Tableau Dahboard
+
+https://github.com/NHV99/Bikestore-Project/blob/main/Tableau%20Dashoard%20link.txt

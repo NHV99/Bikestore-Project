@@ -126,7 +126,7 @@ What is the best category for revenues wit %?
 
 
 
-# sql Code
+# Sql Code
 
 https://github.com/NHV99/Bikestore-Project/blob/main/bikestore%20SQL%20Query.sql
 
